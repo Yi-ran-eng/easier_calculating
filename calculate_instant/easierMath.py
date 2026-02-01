@@ -1,7 +1,6 @@
 import numpy as np
 import matplotlib
 import matplotlib.pyplot as plt
-matplotlib.use('Agg')
 import sympy as sp
 from mpl_toolkits.mplot3d import Axes3D
 from scipy.optimize import fsolve,root,newton,brentq
